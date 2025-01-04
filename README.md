@@ -1,16 +1,10 @@
-# Portfolio
+# Data Scientist
 
-#Data Scientist
-
-###Education
+## Education
 Data Science, Applied Statitics
 
-###Projects
-Project 1
-- bhdigfi
-- ndjfh
+## Projects
+### Spatio temporal data
+New York Yellow Cabs
 
-Project 2
-- hun
-- njhde
 
